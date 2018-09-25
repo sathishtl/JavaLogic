@@ -1,0 +1,26 @@
+1.	Write a Java program to print 'Hello' on screen and then print your name on a separate line. 
+Expected Output: 
+Hello 
+Alexandra Abramov
+
+2.	Write a Java program to Print “Hello World, this week no work!” in reverse.
+Expected Output:
+!krow on keew siht, dlroW olleH
+
+3.	Given a string name, e.g. "Sathish", return a greeting of the form "Hello Sathish!".
+Excepted Output: 
+helloName("Bob") → "Hello Sathish!"
+helloName("Alice") → "Hello Alice!"
+helloName("X") → "Hello X!"
+
+4.	Given a string, take the last char and return a new string with the last char added at the front and back, so "dog" yields "gdogg". The original string will be length 1 or more.
+Excepted Output: 
+backAround("cat") → "tcatt"
+backAround("Hello") → "oHelloo"
+backAround("a") → "aaa"
+
+5.	Given a string, return a new string where the first and last chars have been exchanged.
+Excepted Output: 
+frontBack("code") → "eodc"
+frontBack("a") → "a"
+frontBack("ab") → "ba"
