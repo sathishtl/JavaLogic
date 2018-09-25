@@ -9,7 +9,7 @@ Expected Output:
 
 3.	Given a string name, e.g. "Sathish", return a greeting of the form "Hello Sathish!".
 Excepted Output: 
-helloName("Bob") → "Hello Sathish!"
+helloName("Bob") → "Hello Bob!"
 helloName("Alice") → "Hello Alice!"
 helloName("X") → "Hello X!"
 
