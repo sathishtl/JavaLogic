@@ -1,0 +1,31 @@
+
+6.	Given a string, we'll say that the front is the first 3 chars of the string. If the string length is less than 3, the front is whatever is there. Return a new string which is 3 copies of the front.
+Excepted Output: 
+
+front3("Java") → "JavJavJav"
+front3("Chocolate") → "ChoChoCho"
+front3("abc") → "abcabcabc"
+
+7.	Given a non-empty string and an int n, return a new string where the char at index n has been removed. The value of n will be a valid index of a char in the original string (i.e. n will be in the range 0..str.length()-1 inclusive).
+Excepted Output:
+missingChar("kitten", 1) → "ktten"
+missingChar("kitten", 0) → "itten"
+missingChar("kitten", 4) → "kittn"
+
+8.	Given a string, return a "rotated right 2" version where the last 2 chars are moved to the start. The string length will be at least 2.
+Excepted Output:
+right2("Hello") → "loHel"
+right2("java") → "vaja"
+right2("Hi") → "Hi"
+
+9.	Given a string, return a version without both the first and last char of the string. The string may be any length, including 0.
+Excepted Output:
+withouEnd2("Hello") → "ell"
+withouEnd2("abc") → "b"
+withouEnd2("ab") → ""
+
+10.	Given two int values, return their sum. Unless the two values are the same, then return double their sum.
+Excepted Output:
+sumDouble(1, 2) → 3
+sumDouble(3, 2) → 5
+sumDouble(2, 2) → 8
