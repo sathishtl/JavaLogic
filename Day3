@@ -1,0 +1,30 @@
+
+11.	Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.
+Excepted Output:
+diff21(19) → 2
+diff21(10) → 11
+diff21(21) → 0
+12.	Count the number of "xx" in the given string. We'll say that overlapping is allowed, so "xxx" contains 2 "xx".
+Excepted Output:
+countXX("abcxx") → 1
+countXX("xxx") → 2
+countXX("xxxx") → 3
+
+13.	Given an "out" string length 4, such as "<<>>", and a word, return a new string where the word is in the middle of the out string, e.g. "<<word>>". Note: use str.substring(i, j) to extract the String starting at index i and going up to but not including index j.
+Excepted Output:
+makeOutWord("<<>>", "Yay") → "<<Yay>>"
+makeOutWord("<<>>", "WooHoo") → "<<WooHoo>>"
+makeOutWord("[[]]", "word") → "[[word]]"
+
+14.	Given a string of even length, return the first half. So the string "WooHoo" yields "Woo".
+Excepted Output:
+firstHalf("WooHoo") → "Woo"
+firstHalf("HelloThere") → "Hello"
+firstHalf("abcdef") → "abc"
+
+15.	Given a string, if the string begins with "red" or "blue" return that color string, otherwise return the empty string.
+Excepted Output:
+seeColor("redxx") → "red"
+seeColor("xxred") → ""
+seeColor("blueTimes") → "blue"
+
