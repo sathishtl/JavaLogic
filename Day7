@@ -1,0 +1,38 @@
+
+30.	Write a Java program that takes two numbers as input and display the product of two numbers. 
+Test Data:
+Input first number: 25
+Input second number: 5
+Expected Output :
+25 x 5 = 125
+
+
+31.	Write a Java program that takes a number as input and prints its multiplication table upto 10. 
+Test Data:
+Input a number: 8
+Expected Output :
+8 x 1 = 8
+8 x 2 = 16
+8 x 3 = 24
+...
+8 x 10 = 80
+
+32.	Write a Java program that takes three numbers as input to calculate and print the average of the numbers. 
+
+33.	Write a Java program to swap two variables
+
+34.	Write a Java program to print the area and perimeter of a rectangle. 
+Test Data:
+Width = 5.5 Height = 8.5
+Expected Output
+Area is 5.6 * 8.5 = 47.60
+Perimeter is 2 * (5.6 + 8.5) = 28.20
+
+35.	Write a Java program to check whether Java is installed on your computer. 
+Expected Output
+Java Version: 1.8.0_71                                                            
+Java Runtime Version: 1.8.0_71-b15                                                
+Java Home: /opt/jdk/jdk1.8.0_71/jre                                               
+Java Vendor: Oracle Corporation                                                   
+Java Vendor URL: http://Java.oracle.com/                                          
+Java Class Path: .
