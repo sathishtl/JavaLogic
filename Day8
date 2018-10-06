@@ -1,0 +1,56 @@
+
+36.	Write a Java program to check whether Java is installed on your computer. 
+Expected Output
+Java Version: 1.8.0_71                                                            
+Java Runtime Version: 1.8.0_71-b15                                                
+Java Home: /opt/jdk/jdk1.8.0_71/jre                                               
+Java Vendor: Oracle Corporation                                                   
+Java Vendor URL: http://Java.oracle.com/                                          
+Java Class Path: .
+
+
+
+33. Write a Java program and compute the sum of the digits of an integer. 
+Input Data:
+Input an integer: 25
+Expected Output
+The sum of the digits is: 7
+
+
+
+36. Write a Java program to compute the distance between two points on the surface of earth. 
+Distance between the two points [ (x1,y1) & (x2,y2)]
+d = radius * arccos(sin(x1) * sin(x2) + cos(x1) * cos(x2) * cos(y1 - y2))
+Radius of the earth r = 6371.01 Kilometers
+Input Data:
+Input the latitude of coordinate 1: 25 
+Input the longitude of coordinate 1: 35
+Input the latitude of coordinate 2: 35.5
+Input the longitude of coordinate 2: 25.5
+Expected Output
+The distance between those points is: 1480.0848451069087 km 
+
+37.	 write a Java program to The string is :  Aa kiu, I swd skieo 236587. GH kiu: sieo?? 25.33
+letter: 23                                               
+space: 9                                                 
+number: 10                                               
+
+38.	Write a Java program to print the ascii value of a given character. 
+Expected Output
+The ASCII value of Z is :90
+
+
+
+39.	43. Write a Java program to print the following string in a specific format (see the output). 
+Sample Output
+Twinkle, twinkle, little star,
+    How I wonder what you are! 
+		    Up above the world so high,   		
+		Like a diamond in the sky. 
+Twinkle, twinkle, little star, 
+	  How I wonder what you are
+  
+40.	  Write a Java program that accepts an integer (n) and computes the value of n+nn+nnn. 
+Sample Output:
+Input number: 5                                                        
+5 + 55  + 555
