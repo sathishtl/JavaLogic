@@ -1,0 +1,17 @@
+
+41.	Write  java program to find the size of a a specified file
+Sample Output:
+ /home/students/abc.txt  : 0 bytes                                      
+/home/students/test.txt : 0 bytes 
+
+42.	   Write a Java program to display the system time. 
+Sample Output:
+Current Date time: Fri Jun 16 14:17:40 IST 2017
+
+43.	Write a Java program to display the current date time in specific format. 
+Sample Output:
+Now: 2017/06/16 08:52:03.066 
+
+
+44.	Write a Java program to create a new directory
+45.	Write a Java program to delete a file.
