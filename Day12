@@ -1,0 +1,26 @@
+
+56.	Write a Java program to capitalize the first letter of each word in a sentence. 
+Sample Output:
+Input a Sentence: the quick brown fox jumps over the lazy dog.         
+The Quick Brown Fox Jumps Over The Lazy Dog.
+
+
+57.	Write a Java program to convert a given string into lowercase. 
+Sample Output:
+Input a String: THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG.           
+the quick brown fox jumps over the lazy dog.
+
+58.	Write a Java program to insert a word in the middle of the another string. 
+Insert "Tutorial" in the middle of "Python 3.0", so result will be Python Tutorial 3.0
+Sample Output:
+Python Tutorial 3.0
+  
+  
+59.	  Write a Java program to check the longest word in the given sentence. 
+According to Wikipedia "An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once. For example, the word anagram can be rearranged into nag a ram, or the word binary into brainy."
+
+
+60.	Write a Java program to merge two given sorted lists. 
+Sample Output: 
+Merge Two Sorted ListsT:
+1 2 3 7 9 13 40
