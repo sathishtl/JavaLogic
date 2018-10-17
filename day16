@@ -1,0 +1,8 @@
+1.	Write a Java program to insert 5 employees in a list and print the employees in sort order with their age.
+2.	Write a Java program to insert 5 employees in a Hashmap and print the employees in sort order with their age.
+3.	Write a Java program to accept two string and test if the second string contains the first one. 
+Input first string: Once in a blue moon
+Input second string: See eye to eye
+If the second string contains the first one? False
+4.	 Write a Java program to reverse an integer number.
+5.	Write a java program to read employee details and sort the employee with name and print it.
