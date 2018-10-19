@@ -6,5 +6,5 @@ Input first string: Once in a blue moon
 Input second string: See eye to eye
 If the second string contains the first one? False
 69.	 Write a Java program to reverse an integer number.
-70.	Write a java program to read employee details and sort the employee with name and print it.
+70.	Write a java program to read employee details from a CSV file and sort the employee with name and print it.
 
