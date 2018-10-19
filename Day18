@@ -1,0 +1,15 @@
+
+71.	Write a Java program to check if a given string has all unique characters. 
+Sample Output: Original String : xyyz
+String has all unique characters: false
+72.	Write a Java program to find the missing string from two given strings. 
+73.	Write a Java program to check a string follows a given pattern. 
+  Example pattern:
+  Given pattern = "xyyx", str = "red black black red", return true.
+  Given pattern = "xyyx", str = "red black black green", return false.
+  Given pattern = "xxxx", str = "red black black red", return false.
+  Given pattern = "xxxx", str = "red red red red", return true.
+  Expected Output:
+  Is the string and pattern matched? false
+74.	Write a Java program to determine arithmetical operation at run time
+75.	Write a Java program to append the specified element to the end of a hash set. 
