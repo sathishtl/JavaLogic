@@ -24,4 +24,9 @@ public class Day1 {
 		Assert.assertEquals("", background.backAround(""));
 		Assert.assertEquals("", background.backAround(null));
 	}
+	
+	@Test
+	public void frontback(){
+		
+	}
 }

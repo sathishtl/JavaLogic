@@ -1,0 +1,10 @@
+my is sat
+my first file to read from java
+abcded
+
+
+
+my speciala char.. $#%@#$^%
+
+
+end of this file
