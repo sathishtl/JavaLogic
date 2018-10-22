@@ -1,0 +1,18 @@
+81.	Write a Java program to convert an integer value to absolute value
+
+82.	Write a Java method to count all vowels in a string. 
+Test Data:
+Input the string: web resource, find it 
+
+83.	Write a Java method to find the smallest number among three numbers. 
+Test Data:
+Input the first number: 25
+Input the Second number: 37
+Input the third number: 29 
+Expected Output:
+The smallest value is 25.0
+
+84.	Write a Java program to calculate your age
+
+85.	Write a Java program to get the months remaining in the year. 
+86.	Write a Java program to get the dates 10 days after today.
