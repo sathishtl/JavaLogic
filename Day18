@@ -2,7 +2,7 @@
 71.	Write a Java program to check if a given string has all unique characters. 
 Sample Output: Original String : xyyz
 String has all unique characters: false
-72.	Write a Java program to find the missing string from two given strings. 
+72.	Write a Java program to find the missing char from two given strings. 
 73.	Write a Java program to check a string follows a given pattern. 
   Example pattern:
   Given pattern = "xyyx", str = "red black black red", return true.
