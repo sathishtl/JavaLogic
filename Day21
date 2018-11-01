@@ -1,0 +1,19 @@
+92.	 On your phone keypad, the alphabets mapped to digits as follows: ABC(2), DEF(3), GHI(4), JKL(5), MNO(6), PQRS(7), TUV(8), WXYZ(9). 
+Write a java program called PhoneKeyPad, which converts to phone number to alapha numbers
+93.	 Write a program to print  SquarePattern 
+# # # # #
+# # # # #
+# # # # #
+# # # # #
+# # # # #
+94.	 Write a java rograms to print  TriangularPattern
+
+#                   
+# #                  
+# # #            
+# # # #              
+# # # # #           
+# # # # # #          
+# # # # # # #        
+# # # # # # # #
+95.	 Write a java rograms to print  reverse TriangularPattern
